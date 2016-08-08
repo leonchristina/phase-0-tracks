@@ -10,3 +10,5 @@ branch is a copy of your master file with made chages. You want to use branch to
 commit is your saving points. A good message would give descriptive summary of what you did within this commit.
 * What is a merge conflict?
 Merge conflict happens when you ar integrating another branch into your current workin branch and either someone went in and did some edit on the same line. 
+
+## Hello teacher!! Do you see this?
