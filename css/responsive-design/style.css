@@ -7,11 +7,17 @@ blockquote {
 cite {
   display: block;
   margin-top: 10px;
+  width:756px;
 }
 
 #external-links ul {
-  list-style-type: none;
-  padding-left: 0px;
+  width: 20%; 
+  display: inline-block;
+  vertical-align: baseline;
+  float: left;
+  border: hsla(0, 0, 0, 0.3) solid 1px
+  width: 50%;
+
 }
 
 /* you're welcome to edit the
@@ -30,3 +36,27 @@ figcaption {
   font-style: italic;
   text-align: right;
 }
+
+.body {
+  width-max:960px;
+
+  float: left;
+  margin: 100px;
+}
+
+/* @media screen and (max-width: 500px) {
+  body {
+    background-color: hotpink;
+  }
+} 
+Media queries can be used for all sorts of responsive design decisions, including the following:
+
+Making heading or other text smaller at very narrow widths
+Stacking page sections on top of one another and setting their widths to 100%
+Stacking images on top of one another at narrow widths
+Adding a third or even a fourth column of additional content at very wide widths
+Switching menu options from words to icons as widths shrink/*
+
+
+
+@media 
