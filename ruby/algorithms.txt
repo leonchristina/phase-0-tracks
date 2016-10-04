@@ -1,13 +1,16 @@
+
 Helping the robot use the elevator.
 
 In the elevator there is a section of buttons withs numbers.
 Each number represents a floor. The higher the number higher you travel.
-if the level is greater than 1 you go up in order up until 48.
-If your level is less than 48 you go down in order up to one.
-
+if the level is greater than 1 you go up in numerical order up until 48.
+If your level is less than 48 you go down in numerical order up to one.
+Once you have reached the desired floor please exit the elevator.
 Eating cereal.
 
-Gather a bowl, cereal, spoon and milk
+Eating cereal:
+
+Gather a bowl, choice ofcereal, spoon and milk
 Add cereal and milk into bowl
 Use spoon to eat
 One bowl is empty repeat process.
